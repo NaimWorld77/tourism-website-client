@@ -1,5 +1,7 @@
 This is a tarvel related WEBSit.such as coxATour
 used related ingradiants:
+
+
 1.react
 2.react bootstrap
 3.react hook
@@ -8,8 +10,6 @@ used related ingradiants:
 6.express
 7.mongobd
 10.cors
-
-
 website related data used:
 1. travel related site 
 2. navbar
