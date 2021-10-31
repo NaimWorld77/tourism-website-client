@@ -1,0 +1,38 @@
+[
+    {"id":1,
+    "Fee":200,   
+    "name":"Try wine-tasting on Waiheke",
+    "description":"Home to a magical blend of vineyards, olive groves, beaches, art studios and funky cafes, Waiheke Island is an enchanting oasis. Sip New Zealand’s finest wines at one of the many vineyards while enjoying sea views",
+    "img":"https://www.newzealand.com/assets/Tourism-NZ/Auckland/72fe078fcd/img-1536381286-7292-356-1D09B1B6-D1E8-EFE7-BE2CBD62ABF72EAF__aWxvdmVrZWxseQo_FocalPointCropWzUyOCwxNTM2LDQ4LDQzLDc1LCJqcGciLDY1LDIuNV0.jpg"
+},
+    {"id":2,
+    "Fee":250, 
+    "name":"Explore adventure in Queenstown",
+    "description":"Queenstown is the perfect place for an adventure. Experience jet boat rides, skiing, river rafting, hiking and biking, or go bungy jumping where it all began. Not for you? Try wine-tasting, spa treatments or alfresco dining for a relaxing alternative",
+    "img":"https://www.newzealand.com/assets/Campaigns/FY-20-Campaigns/FY20-Brand-Welcome/GMW-Still-Assets/1830-The-Remarkables-Queenstown-Miles-Holden__aWxvdmVrZWxseQo_FocalPointCropWzUyOCwxNTM2LDQ5LDQ3LDc1LCJqcGciLDY1LDIuNV0.jpg"
+},
+    {"id":3,
+    "Fee":300, 
+    "name":"Bask in Milford Sounds scale",
+    "description":"Depart from Queenstown or Te Anau and enjoy an afternoon cruise around Milford Sounds dramatic fiords, spectacular waterfalls and snow-capped peaks. You can also see the Eighth Wonder of the World by flightseeing, kayaking or taking an overnight boat ride.",
+    "img":"https://www.newzealand.com/assets/Tourism-NZ/Fiordland/d665926e0e/img-1536124480-1251-12474-p-364A5BFF-DDC2-7A70-D6A019A4AEE2EDCA-2544003__aWxvdmVrZWxseQo_FocalPointCropWzUyOCwxNTM2LDI5LDQzLDc1LCJqcGciLDY1LDIuNV0.jpg"
+},
+    {"id":4,
+    "Fee":280, 
+    "name":"Explore geothermal phenomena",
+    "description":"Geysers, boiling mud pools & huge volcanic craters are in Rotorua, where natures forces escape by bubbling, steaming & hissing from the inner earth. Discover the sights and wonders of this city sitting squarely on the Pacific Ring of Fire.",
+    "img":"https://www.newzealand.com/assets/Tourism-NZ/Rotorua/ffb4d46bd5/img-1536196288-4524-21790-D5B2B56F-EF88-676B-BD2DCC37C49BEF71__aWxvdmVrZWxseQo_FocalPointCropWzUyOCwxNTM2LDUwLDUwLDc1LCJqcGciLDY1LDIuNV0.jpg"
+},
+    {"id":5,
+    "Fee":210, 
+    "name":"Make furry-footed friends",
+    "description":"Ever since the first The Lord of the Rings movie was released in 2001, New Zealand has been known as the home of Middle‑earth™. Take a guided tour of the Hobbiton Movie Set in Matamata, land of The Shires lush pastures.",
+    "img":"https://www.newzealand.com/assets/Tourism-NZ/Hamilton-Waikato/cabec9a1b6/img-1536319350-3524-4877-89B001E9-C152-CA1E-95006145CDE4390A__aWxvdmVrZWxseQo_FocalPointCropWzUyOCwxNTM2LDUwLDU2LDc1LCJqcGciLDY1LDIuNV0.jpg"
+},
+    {"id":6,
+    "Fee":320, 
+    "name":"Heli-hike a glacier",
+    "description":"Wild rivers, rainforests, glaciers and rugged beaches invite exploration on the stunning, unspoiled region of the West Coast. Take a helicopter to the top of a glacier for a guided walk onto the Franz Josef or Fox Glacier.",
+    "img":"https://www.newzealand.com/assets/Tourism-NZ/West-Coast/48f35fc9e8/img-1536285308-934-1575-5CC89285-9AED-765A-A7982F5CCC5127CD__aWxvdmVrZWxseQo_FocalPointCropWzUyOCwxNTM2LDQ0LDYwLDc1LCJqcGciLDY1LDIuNV0.jpg"
+}
+]
